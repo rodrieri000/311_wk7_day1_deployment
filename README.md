@@ -9,9 +9,9 @@ The app is using `nodemon`. Any changes made (and saved) will cause the server t
 Navigate to the `sql/connections.js` file and alter the following fields to reflect your database setup:
 
 ```
-  host: 'localhost',
+  host: '35.223.0.16',
   user: 'root',
-  password: 'password',
+  password: '',
   database: 'admin'
 ```
 
